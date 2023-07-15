@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tutorials
 
 **TODO: Add description**
@@ -19,3 +20,10 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/tutorials>.
 
+=======
+# mix_project_tutorial
+
+Based freecode camp for elixir on youtube.
+
+VsCode and WSL2
+>>>>>>> 8915cf190b55d3c6f5a8acaddeb3bfd14c953887
