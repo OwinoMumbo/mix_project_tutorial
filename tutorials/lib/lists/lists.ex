@@ -10,7 +10,7 @@ defmodule Tutorials.Lists do
   5. flat_map
   """
 
-  # -------------------------- Sum ------------------------------
+  # ************************ Sum *************************
 
   @doc """
   Returns the sum of numbers in a list.
